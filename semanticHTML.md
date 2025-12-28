@@ -61,7 +61,7 @@ Detailed Method:
     </aside>
 
     <footer>
-      <p>Copyright &copy; 2023 Your Name or Company Name. All rights reserved.</p>
+      <p>Copyright &copy; 2025 Your Name or Company Name. All rights reserved.</p>
     </footer>
   </body>
 </html>
